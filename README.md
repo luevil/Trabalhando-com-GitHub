@@ -14,9 +14,3 @@ pagina-html-simples/
 * index.html: O arquivo HTML principal.
 * imagens/exemplo.jpg: A imagem que será exibida na página HTML.
 * README.md: O arquivo de documentação do projeto.
-
-## Como Usar
-Clone o repositório:
-```shell
-git clone https://github.com/greglixandrao/descomplica-github.git
-```
